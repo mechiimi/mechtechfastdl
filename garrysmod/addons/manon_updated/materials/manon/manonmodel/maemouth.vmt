@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "manon/manonmodel/MaeMouth"
+	"$translucent" 1
+}
